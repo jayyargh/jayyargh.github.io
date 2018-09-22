@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jayyargh/jayyargh.github.io.svg?branch=develop)](https://travis-ci.org/jayyargh/jayyargh.github.io)
+
 # gatsby-starter-blog
 Gatsby starter for creating a blog
 
